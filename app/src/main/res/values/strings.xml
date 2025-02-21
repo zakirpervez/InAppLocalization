@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InAppLocalization</string>
+    <string name="language" translatable="false">English</string>
+</resources>
